@@ -1,0 +1,24 @@
+{
+	"name": "skelly",
+	"version": "0.0.0",
+	"author": "CoderPuppy",
+	"description": "A dynamic web framework",
+
+	"dependencies": {
+		"LiveScript": "*",
+		"browserify": "*",
+		"domready": "*",
+		"dom-walk": "*",
+		"become": "*",
+		"bean": "*",
+		"dom-shim": "*",
+		"dom-vector": "*",
+		"atts": "*",
+		"ancestors": "*",
+		"alignit": "*",
+		"dom-create": "*",
+		"qwery": "*",
+		"stream-to-array": "*",
+		"dslify": "*"
+	}
+}
